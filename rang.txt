@@ -1,0 +1,32 @@
+1 USM Alger
+                        45 24  24  6  5  38  20  18
+2 JS Kabylie
+                        40 24  24  7  6  27  17  10
+3 Paradou AC
+                        39 23  23  6  6  30  18  12
+4 CS Constantine
+                        38 24  24  3  10  28  20  8
+5 MC Alger
+                        35 22  22  8  5  25  25  0
+6 JS Saoura
+                        34 21  21  8  5  22  13  9
+7 ES Setif
+                        31 22  22  7  7  18  12  6
+8 CA Bordj Bou Arreridj
+                        29 24  24  8  9  20  21  -1
+9 NA Hussein Dey
+                        27 20  20  6  7  15  18  -3
+10 MC Oran
+                        26 23  23  14  5  11  19  -8
+11 DRB Tadjenanet
+                        25 23  23  10  8  25  30  -5
+12 AS Ain Mlila 
+                        23  23  7  10  24  11 18  -7
+13 CR Belouizdad
+                        25 24  24  10  9  18  25  -7
+14 O Medea
+                        23 22  22  8  8  19  22  -3
+15 MO Bejaia
+                        23 23  23  11  8  19  31  -12
+16 USM Bel-Abbes
+                        19 22  22  7  11  17  35  -18
